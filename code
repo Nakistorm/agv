@@ -1,5 +1,5 @@
-int IN1 = 4; //Pin pour Le Capteur Gauche int IN4 = 5;
-//Pin pour Le Capteur Droite 
+int IN1 = 4; //Pin pour Le Capteur Gauche
+int IN4 = 5; //Pin pour Le Capteur Droite 
 int GA=12,GB=3,DA=13,DB=11; //Pin pour Deux moteurs (GA et GB pour le moteur Gauche, DA et DB pour le moteur de droite)
 
 void setup()
